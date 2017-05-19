@@ -6,4 +6,4 @@ https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/e
 
 - rename Microsoft.VisualStudio.Services.VSIXPackage to cpptools.vsix or something else.
 - install it by Ctrl+Shift+P , install from vsix.
-- After Install VSIX, run fix_dependency.py, follow the step
+- After Install VSIX, run fix_dependency.py, follow the step (**Works only on Windows**)
